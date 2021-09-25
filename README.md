@@ -18,17 +18,14 @@ Welcome to Federated Learning Seminar :)
     <td>Materials</td>
   </tr>
   <tr>
-    <td>June</td>
-    <td>29</td>
-    <td>0</td>
+    <td rowspan="2">June</td>
+    <td rowspan="2">29</td>
+    <td rowspan="2">0</td>
     <td>A Novel Cross Entropy Approach for Offloading Learning in Mobile Edge Computing</td>
     <td>江宇辉</td>
     <td><a href="2021fall/20210629 - A Novel Cross Entropy Approach for Offloading Learning in Mobile Edge Computing (江宇辉).pptx">Slides</a></td>
   </tr>
   <tr>
-    <td>June</td>
-    <td>29</td>
-    <td>0</td>
     <td>PACE：Learning Effective Task Decomposition for Human-in-the-loop Healthcare Delivery</td>
     <td>毛炜</td>
     <td><a href="2021fall/20210629-PACE：Learning Effective Task Decomposition for Human-in-the-loop Healthcare Delivery(毛炜）.pptx">Slides</a></td>
