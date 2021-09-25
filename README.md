@@ -35,7 +35,7 @@ Welcome to Federated Learning Seminar :)
   </tr>
   <tr>
     <td>Title</td>
-    <td>毛伟</td>
+    <td>毛炜</td>
     <td><a href="2021fall/filename.pptx">Slides</a></td>
   </tr>
     <tr>
@@ -48,7 +48,7 @@ Welcome to Federated Learning Seminar :)
   </tr>
   <tr>
     <td>Title</td>
-    <td>毛伟</td>
+    <td>毛炜</td>
     <td><a href="2021fall/filename.pptx">Slides</a></td>
   </tr>
 </table>
