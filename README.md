@@ -26,6 +26,9 @@ Welcome to Federated Learning Seminar :)
     <td><a href="2021fall/20210629 - A Novel Cross Entropy Approach for Offloading Learning in Mobile Edge Computing (江宇辉).pptx">Slides</a></td>
   </tr>
   <tr>
+    <td>June</td>
+    <td>29</td>
+    <td>0</td>
     <td>PACE：Learning Effective Task Decomposition for Human-in-the-loop Healthcare Delivery</td>
     <td>毛炜</td>
     <td><a href="2021fall/20210629-PACE：Learning Effective Task Decomposition for Human-in-the-loop Healthcare Delivery(毛炜）.pptx">Slides</a></td>
