@@ -34,7 +34,7 @@ Welcome to Federated Learning Seminar :)
     <td><a href="2021fall/20210916 - Adaptive User-managed Service Placement for Mobile Edge Computing An Online Learning Approach.pptx">Slides</a></td>
   </tr>
   <tr>
-    <td>Title</td>
+    <td>Energy-aware Resource Management</td>
     <td>毛炜</td>
     <td><a href="2021fall/20210916 - Energy-aware Resource Management(毛炜).pptx">Slides</a></td>
   </tr>
@@ -47,7 +47,7 @@ Welcome to Federated Learning Seminar :)
     <td><a href="2021fall/20210923 - In-Edge AI Intelligentizing Mobile Edge Computing Caching and Communication by Federated Learning.pptx">Slides</a></td>
   </tr>
   <tr>
-    <td>Title</td>
+    <td>Attention-Weighted Federated Deep Reinforcement learning for device-to-device assisted heterogeneous collaborative edge computing</td>
     <td>毛炜</td>
     <td><a href="2021fall/20210916 - Attention-Weighted Federated Deep Reinforcement learning for device-to-device assisted heterogeneous collaborative edge computing
       (毛炜).pptx">Slides</a></td>
